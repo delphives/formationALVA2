@@ -25,7 +25,8 @@ namespace MonNamespace
         /// <returns>la somme</returns>
         public int CalculerSommeDeDeuxNombres(int nb1, int nb2)
         {
-            return nb1 + nb2;
+            int x = nb1 + nb2;
+            return x;
         }
     }
 }
