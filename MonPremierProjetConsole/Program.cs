@@ -59,5 +59,8 @@ z = age > 2 ? "+" : "-";
 
 Maths m = new Maths();
 Console.WriteLine(m.CalculerSommeDeDeuxNombres(4, 6));
+m.TestContinue();
+
+
 Console.ReadLine();
 //}
